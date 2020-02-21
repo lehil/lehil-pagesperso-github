@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-21T09:33:16+01:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps de loisir.</subtitle><entry><title type="html">Enceinte de graves</title><link href="/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T16:00:00+02:00</published><updated>2016-05-10T16:00:00+02:00</updated><id>/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-21T15:41:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps de loisir.</subtitle><entry><title type="html">Ossature bois</title><link href="http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Ossature bois" /><published>2020-02-08T12:00:00+01:00</published><updated>2020-02-08T12:00:00+01:00</updated><id>http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison</id><content type="html" xml:base="http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/ossature_bois.png&quot; alt=&quot;ossature_bois.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dessin d’une ossature bois (madriers en sapin de section 175x65)&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/ossature_bois.FCStd&quot;&gt;ossature_bois.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Pont pour atelier</title><link href="http://localhost:4000/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T12:00:00+01:00</published><updated>2020-01-10T12:00:00+01:00</updated><id>http://localhost:4000/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="http://localhost:4000/metallerie/2020/01/10/pont_atelier.html">&lt;p&gt;&lt;img src=&quot;/images/pont_atelier.png&quot; alt=&quot;pont_atelier.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fixation d’une poutre entre 2 racks. La poutre provient d’un portique roulant devenu trop encombrant.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/pont_atelier.FCStd&quot;&gt;pont_atelier.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boule pour support de tom yamaha</title><link href="http://localhost:4000/impression3d/2018/05/10/yamaha_boule_support_tom.html" rel="alternate" type="text/html" title="Boule pour support de tom yamaha" /><published>2018-05-10T12:00:00+02:00</published><updated>2018-05-10T12:00:00+02:00</updated><id>http://localhost:4000/impression3d/2018/05/10/yamaha_boule_support_tom</id><content type="html" xml:base="http://localhost:4000/impression3d/2018/05/10/yamaha_boule_support_tom.html">&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Support Roland TMC6</title><link href="http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6.html" rel="alternate" type="text/html" title="Support Roland TMC6" /><published>2018-03-20T12:00:00+01:00</published><updated>2018-03-20T12:00:00+01:00</updated><id>http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6</id><content type="html" xml:base="http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6.html">&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezzo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 :  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Enceinte de graves</title><link href="http://localhost:4000/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T16:00:00+02:00</published><updated>2016-05-10T16:00:00+02:00</updated><id>http://localhost:4000/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="http://localhost:4000/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_gros_plan_800x600.jpg&quot; alt=&quot;subwoofer_monacor_gros_plan_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -8,11 +24,11 @@
 
 &lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.</summary></entry><entry><title type="html">Remorque de vélo pour transporter mon chien</title><link href="/m%C3%A9tallerie/2016/03/15/remorque_pour_chien.html" rel="alternate" type="text/html" title="Remorque de vélo pour transporter mon chien" /><published>2016-03-15T20:00:00+01:00</published><updated>2016-03-15T20:00:00+01:00</updated><id>/m%C3%A9tallerie/2016/03/15/remorque_pour_chien</id><content type="html" xml:base="/m%C3%A9tallerie/2016/03/15/remorque_pour_chien.html">&lt;h3 id=&quot;remorque-sur-le-terrain&quot;&gt;Remorque sur le terrain&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="http://localhost:4000/metallerie/2016/03/15/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2016-03-15T20:00:00+01:00</published><updated>2016-03-15T20:00:00+01:00</updated><id>http://localhost:4000/metallerie/2016/03/15/remorque_velo</id><content type="html" xml:base="http://localhost:4000/metallerie/2016/03/15/remorque_velo.html">&lt;h3 id=&quot;utilisation-de-la-remorque&quot;&gt;Utilisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_loki_vern.jpg&quot; alt=&quot;remorque_loki_vern.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;aux-étangs-de-vern-sur-seiche&quot;&gt;Aux étangs de Vern-sur-seiche&lt;/h3&gt;
+&lt;h3 id=&quot;autour-des-étangs-de-vern-sur-seiche&quot;&gt;Autour des étangs de Vern-sur-seiche&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ1_800x600.jpg&quot; alt=&quot;remorque_in_situ1_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -26,13 +42,13 @@
 
 &lt;p&gt;Tubes d’acier cintrable diamètre 21,3mm.
 Outillage: cintreuse Mingori, soudure tig et electrodes enrobées.
-Finition avec un verni glycèro transparent.&lt;/p&gt;
+Finition avec un verni glycéro transparent.&lt;/p&gt;
 
 &lt;h3 id=&quot;détail-de-larticulation&quot;&gt;Détail de l’articulation&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name></name></author><summary type="html">Remorque sur le terrain</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T23:00:00+02:00</published><updated>2015-07-15T23:00:00+02:00</updated><id>/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
+&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name></name></author><summary type="html">Utilisation de la remorque</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="http://localhost:4000/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T23:00:00+02:00</published><updated>2015-07-15T23:00:00+02:00</updated><id>http://localhost:4000/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="http://localhost:4000/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/poulailler_portes_posees_800x600.jpg&quot; alt=&quot;poulailler_portes_posees_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -72,7 +88,7 @@ Finition avec un verni glycèro transparent.&lt;/p&gt;
 
 &lt;h3 id=&quot;existant-avant-travaux&quot;&gt;Existant avant travaux&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/poulailler_avant_travaux_800x600.jpg&quot; alt=&quot;poulailler_avant_travaux_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.</summary></entry><entry><title type="html">Table haute dans une cuisine</title><link href="/m%C3%A9tallerie/2015/05/01/table_haute_cuisine.html" rel="alternate" type="text/html" title="Table haute dans une cuisine" /><published>2015-05-01T12:00:00+02:00</published><updated>2015-05-01T12:00:00+02:00</updated><id>/m%C3%A9tallerie/2015/05/01/table_haute_cuisine</id><content type="html" xml:base="/m%C3%A9tallerie/2015/05/01/table_haute_cuisine.html">&lt;p&gt;Cintrage avec cintreuse à galets.
+&lt;p&gt;&lt;img src=&quot;/images/poulailler_avant_travaux_800x600.jpg&quot; alt=&quot;poulailler_avant_travaux_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.</summary></entry><entry><title type="html">Table haute dans une cuisine</title><link href="http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine.html" rel="alternate" type="text/html" title="Table haute dans une cuisine" /><published>2015-05-01T12:00:00+02:00</published><updated>2015-05-01T12:00:00+02:00</updated><id>http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine</id><content type="html" xml:base="http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine.html">&lt;p&gt;Cintrage avec cintreuse à galets.
 Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/table_haute_1.png&quot; alt=&quot;table_haute_1.png&quot; /&gt;&lt;/p&gt;
@@ -87,7 +103,7 @@ Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille disso
 
 &lt;h3 id=&quot;représentation-en-3d&quot;&gt;Représentation en 3D&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/table_haute_3D.png&quot; alt=&quot;table_haute_3D.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Cintrage avec cintreuse à galets. Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.</summary></entry><entry><title type="html">Fermeture d’un abri de voiture</title><link href="/menuiserie/2014/08/01/abri_voiture_helene.html" rel="alternate" type="text/html" title="Fermeture d'un abri de voiture" /><published>2014-08-01T23:00:00+02:00</published><updated>2014-08-01T23:00:00+02:00</updated><id>/menuiserie/2014/08/01/abri_voiture_helene</id><content type="html" xml:base="/menuiserie/2014/08/01/abri_voiture_helene.html">&lt;p&gt;A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/table_haute_3D.png&quot; alt=&quot;table_haute_3D.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Cintrage avec cintreuse à galets. Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.</summary></entry><entry><title type="html">Fermeture d’un abri de voiture</title><link href="http://localhost:4000/menuiserie/2014/08/01/abri_voiture_helene.html" rel="alternate" type="text/html" title="Fermeture d'un abri de voiture" /><published>2014-08-01T23:00:00+02:00</published><updated>2014-08-01T23:00:00+02:00</updated><id>http://localhost:4000/menuiserie/2014/08/01/abri_voiture_helene</id><content type="html" xml:base="http://localhost:4000/menuiserie/2014/08/01/abri_voiture_helene.html">&lt;p&gt;A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…&lt;/p&gt;
 
 &lt;p&gt;Le travail consistait à :&lt;/p&gt;
 
@@ -143,9 +159,11 @@ Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille disso
 
 &lt;p&gt;L’existant avant travaux.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/carport_avant_travaux.jpg&quot; alt=&quot;carport_avant_travaux.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…</summary></entry><entry><title type="html">Verrière dans le style des années 1930, à Rennes-Sud-Gare</title><link href="/m%C3%A9tallerie/2014/05/23/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière dans le style des années 1930, à Rennes-Sud-Gare" /><published>2014-05-23T12:00:00+02:00</published><updated>2014-05-23T12:00:00+02:00</updated><id>/m%C3%A9tallerie/2014/05/23/verriere_delphine</id><content type="html" xml:base="/m%C3%A9tallerie/2014/05/23/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_0981.jpg&quot; alt=&quot;verriere_delphine_0981.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/carport_avant_travaux.jpg&quot; alt=&quot;carport_avant_travaux.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…</summary></entry><entry><title type="html">Verrière dans le style des années 1930</title><link href="http://localhost:4000/metallerie/2014/05/23/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière dans le style des années 1930" /><published>2014-05-23T12:00:00+02:00</published><updated>2014-05-23T12:00:00+02:00</updated><id>http://localhost:4000/metallerie/2014/05/23/verriere_delphine</id><content type="html" xml:base="http://localhost:4000/metallerie/2014/05/23/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_0981.jpg&quot; alt=&quot;verriere_delphine_0981.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;La maison a été construite dans les années 1930. La verrière qui occupait l’emplacement était en mauvais état, impossible à restaurer sans tout remplacer.&lt;/p&gt;
+&lt;p&gt;Cette maison est située dans le quartier Sud-gare de la ville de Rennes. Elle est typique du quartier et de l’époque de sa construction.&lt;/p&gt;
+
+&lt;p&gt;La verrière qui occupait l’emplacement était en mauvais état, impossible à restaurer sans tout remplacer.&lt;/p&gt;
 
 &lt;h3 id=&quot;avant&quot;&gt;Avant…&lt;/h3&gt;
 
@@ -219,10 +237,4 @@ Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille disso
 
 &lt;h3 id=&quot;et-la-nouvelle-vue-du-même-endroit-&quot;&gt;Et la nouvelle vue du même endroit …&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_apres_8271.jpg&quot; alt=&quot;verriere_delphine_apres_8271.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Galerie de toit</title><link href="/m%C3%A9tallerie/2014/04/22/galerie_T5.html" rel="alternate" type="text/html" title="Galerie de toit" /><published>2014-04-22T12:00:00+02:00</published><updated>2014-04-22T12:00:00+02:00</updated><id>/m%C3%A9tallerie/2014/04/22/galerie_T5</id><content type="html" xml:base="/m%C3%A9tallerie/2014/04/22/galerie_T5.html">&lt;p&gt;&lt;img src=&quot;/images/galerie_T5.jpg&quot; alt=&quot;galerie_T5.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Galerie de toit faite à partir de tubes d’acier cintrable (12/17 et 15/21).&lt;/p&gt;
-
-&lt;p&gt;Moyens utilisés:  cintreuse mingori, coupe-tube, soudure à l’électrode et au tig.&lt;/p&gt;
-
-&lt;p&gt;Galvanisation à chaud.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_apres_8271.jpg&quot; alt=&quot;verriere_delphine_apres_8271.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
