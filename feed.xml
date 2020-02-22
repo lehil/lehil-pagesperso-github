@@ -1,26 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-22T01:37:35+01:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps de loisir.</subtitle><entry><title type="html">Ossature bois</title><link href="/batiment/2020/02/08/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Ossature bois" /><published>2020-02-08T12:00:00+01:00</published><updated>2020-02-08T12:00:00+01:00</updated><id>/batiment/2020/02/08/jonction_atelier_maison</id><content type="html" xml:base="/batiment/2020/02/08/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/ossature_bois.png&quot; alt=&quot;ossature_bois.png&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-22T02:42:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps de loisir.</subtitle><entry><title type="html">Ossature bois</title><link href="http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Ossature bois" /><published>2020-02-08T12:00:00+01:00</published><updated>2020-02-08T12:00:00+01:00</updated><id>http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison</id><content type="html" xml:base="http://localhost:4000/batiment/2020/02/08/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/ossature_bois.png&quot; alt=&quot;ossature_bois.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dessin d’une ossature bois (madriers en sapin de section 175x65)&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/ossature_bois.FCStd&quot;&gt;ossature_bois.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Plan (créé avec le werbench techdraw de FreeCAD) : &lt;a href=&quot;/fichiers/plan_ossature_bois.pdf&quot;&gt;plan_ossature_bois.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boîte en tôle pliée</title><link href="/musique/2020/02/05/boite_metal_musique.html" rel="alternate" type="text/html" title="Boîte en tôle pliée" /><published>2020-02-05T12:00:00+01:00</published><updated>2020-02-05T12:00:00+01:00</updated><id>/musique/2020/02/05/boite_metal_musique</id><content type="html" xml:base="/musique/2020/02/05/boite_metal_musique.html">&lt;p&gt;&lt;img src=&quot;/images/boite_metal_musique.png&quot; alt=&quot;boite_metal_musique.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Plan (créé avec le werbench techdraw de FreeCAD) : &lt;a href=&quot;/fichiers/plan_ossature_bois.pdf&quot;&gt;plan_ossature_bois.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ossature-au-sol-en-cours-de-montage&quot;&gt;ossature au sol, en cours de montage&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ossature_au_sol_800x600.jpg&quot; alt=&quot;ossature_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boîte en tôle pliée</title><link href="http://localhost:4000/musique/2020/02/05/boite_metal_musique.html" rel="alternate" type="text/html" title="Boîte en tôle pliée" /><published>2020-02-05T12:00:00+01:00</published><updated>2020-02-05T12:00:00+01:00</updated><id>http://localhost:4000/musique/2020/02/05/boite_metal_musique</id><content type="html" xml:base="http://localhost:4000/musique/2020/02/05/boite_metal_musique.html">&lt;p&gt;&lt;img src=&quot;/images/boite_metal_musique.png&quot; alt=&quot;boite_metal_musique.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Boîte en tôle d’acier brut 2mm d’épaisseur. Conçue avec le Workbench SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boite_metal_musique.FCStd&quot;&gt;boite_metal_musique.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Pont pour atelier</title><link href="/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T12:00:00+01:00</published><updated>2020-01-10T12:00:00+01:00</updated><id>/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="/metallerie/2020/01/10/pont_atelier.html">&lt;p&gt;&lt;img src=&quot;/images/pont_atelier.png&quot; alt=&quot;pont_atelier.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boite_metal_musique.FCStd&quot;&gt;boite_metal_musique.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Pont pour atelier</title><link href="http://localhost:4000/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T12:00:00+01:00</published><updated>2020-01-10T12:00:00+01:00</updated><id>http://localhost:4000/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="http://localhost:4000/metallerie/2020/01/10/pont_atelier.html">&lt;p&gt;&lt;img src=&quot;/images/pont_atelier.png&quot; alt=&quot;pont_atelier.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fixation d’une poutre entre 2 racks. La poutre provient d’un portique roulant devenu trop encombrant.&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/pont_atelier.FCStd&quot;&gt;pont_atelier.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boule pour support de tom yamaha</title><link href="/impression3d/2018/05/10/yamaha_boule_support_tom.html" rel="alternate" type="text/html" title="Boule pour support de tom yamaha" /><published>2018-05-10T12:00:00+02:00</published><updated>2018-05-10T12:00:00+02:00</updated><id>/impression3d/2018/05/10/yamaha_boule_support_tom</id><content type="html" xml:base="/impression3d/2018/05/10/yamaha_boule_support_tom.html">&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/pont_atelier.FCStd&quot;&gt;pont_atelier.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vue-globale&quot;&gt;vue globale&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_vue_globale_800x600.jpg&quot; alt=&quot;pont_atelier_vue_globale_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vue-du-support&quot;&gt;vue du support&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Boule pour support de tom yamaha</title><link href="http://localhost:4000/impression3d/2019/08/15/yamaha_boule_support_tom.html" rel="alternate" type="text/html" title="Boule pour support de tom yamaha" /><published>2019-08-15T00:00:00+02:00</published><updated>2019-08-15T00:00:00+02:00</updated><id>http://localhost:4000/impression3d/2019/08/15/yamaha_boule_support_tom</id><content type="html" xml:base="http://localhost:4000/impression3d/2019/08/15/yamaha_boule_support_tom.html">&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Support Roland TMC6</title><link href="/impression3d/2018/03/20/support_roland_tmc6.html" rel="alternate" type="text/html" title="Support Roland TMC6" /><published>2018-03-20T12:00:00+01:00</published><updated>2018-03-20T12:00:00+01:00</updated><id>/impression3d/2018/03/20/support_roland_tmc6</id><content type="html" xml:base="/impression3d/2018/03/20/support_roland_tmc6.html">&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;support-de-cloche&quot;&gt;Support de cloche&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-demi-sphères-imprimées-en-3d-avec-une-imprimante-ender-3-assemblées-avec-des-vis&quot;&gt;2 demi sphères imprimées en 3D (avec une imprimante ender-3) assemblées avec des vis&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_2_800x600.jpg&quot; alt=&quot;boule_yamaha_2_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Support Roland TMC6</title><link href="http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6.html" rel="alternate" type="text/html" title="Support Roland TMC6" /><published>2018-03-20T12:00:00+01:00</published><updated>2018-03-20T12:00:00+01:00</updated><id>http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6</id><content type="html" xml:base="http://localhost:4000/impression3d/2018/03/20/support_roland_tmc6.html">&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezzo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha.&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Enceinte de graves</title><link href="/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T16:00:00+02:00</published><updated>2016-05-10T16:00:00+02:00</updated><id>/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.
+&lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;exemple-dutilisation-du-support-imprimé-en-pla-avec-une-imprimante-anet-a8&quot;&gt;Exemple d’utilisation du support imprimé en PLA (avec une imprimante anet A8)&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_1_800x600.jpg&quot; alt=&quot;support_roland_tmc6_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_2_800x600.jpg&quot; alt=&quot;support_roland_tmc6_2_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Baffles plan</title><link href="http://localhost:4000/musique/2017/03/12/baffle_plan.html" rel="alternate" type="text/html" title="Baffles plan" /><published>2017-03-12T16:00:00+01:00</published><updated>2017-03-12T16:00:00+01:00</updated><id>http://localhost:4000/musique/2017/03/12/baffle_plan</id><content type="html" xml:base="http://localhost:4000/musique/2017/03/12/baffle_plan.html">&lt;p&gt;Baffles plan en tôle d’acier 2mm et cornières 30x30, haut parleur 12 pouces 400W pour guitare.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/baffle_plan2_800x600.jpg&quot; alt=&quot;baffle_plan2_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Haut-parleur necessitant ce type d’enceinte (qts).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Baffles plan en tôle d’acier 2mm et cornières 30x30, haut parleur 12 pouces 400W pour guitare.</summary></entry><entry><title type="html">Enceinte de graves</title><link href="http://localhost:4000/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T16:00:00+02:00</published><updated>2016-05-10T16:00:00+02:00</updated><id>http://localhost:4000/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="http://localhost:4000/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.
 Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_gros_plan_800x600.jpg&quot; alt=&quot;subwoofer_monacor_gros_plan_800x600.jpg&quot; /&gt;&lt;/p&gt;
@@ -31,7 +63,7 @@ Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse
 
 &lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2016/03/15/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2016-03-15T20:00:00+01:00</published><updated>2016-03-15T20:00:00+01:00</updated><id>/metallerie/2016/03/15/remorque_velo</id><content type="html" xml:base="/metallerie/2016/03/15/remorque_velo.html">&lt;h3 id=&quot;utilisation-de-la-remorque&quot;&gt;Utilisation de la remorque&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="http://localhost:4000/metallerie/2016/03/15/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2016-03-15T20:00:00+01:00</published><updated>2016-03-15T20:00:00+01:00</updated><id>http://localhost:4000/metallerie/2016/03/15/remorque_velo</id><content type="html" xml:base="http://localhost:4000/metallerie/2016/03/15/remorque_velo.html">&lt;h3 id=&quot;utilisation-de-la-remorque&quot;&gt;Utilisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_loki_vern.jpg&quot; alt=&quot;remorque_loki_vern.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -55,7 +87,7 @@ Finition avec un verni glycéro transparent.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name></name></author><summary type="html">Utilisation de la remorque</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T23:00:00+02:00</published><updated>2015-07-15T23:00:00+02:00</updated><id>/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
+&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name></name></author><summary type="html">Utilisation de la remorque</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="http://localhost:4000/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T23:00:00+02:00</published><updated>2015-07-15T23:00:00+02:00</updated><id>http://localhost:4000/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="http://localhost:4000/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/poulailler_portes_posees_800x600.jpg&quot; alt=&quot;poulailler_portes_posees_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -95,7 +127,7 @@ Finition avec un verni glycéro transparent.&lt;/p&gt;
 
 &lt;h3 id=&quot;existant-avant-travaux&quot;&gt;Existant avant travaux&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/poulailler_avant_travaux_800x600.jpg&quot; alt=&quot;poulailler_avant_travaux_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.</summary></entry><entry><title type="html">Table haute dans une cuisine</title><link href="/metallerie/2015/05/01/table_haute_cuisine.html" rel="alternate" type="text/html" title="Table haute dans une cuisine" /><published>2015-05-01T12:00:00+02:00</published><updated>2015-05-01T12:00:00+02:00</updated><id>/metallerie/2015/05/01/table_haute_cuisine</id><content type="html" xml:base="/metallerie/2015/05/01/table_haute_cuisine.html">&lt;p&gt;Cintrage avec cintreuse à galets.
+&lt;p&gt;&lt;img src=&quot;/images/poulailler_avant_travaux_800x600.jpg&quot; alt=&quot;poulailler_avant_travaux_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.</summary></entry><entry><title type="html">Table haute dans une cuisine</title><link href="http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine.html" rel="alternate" type="text/html" title="Table haute dans une cuisine" /><published>2015-05-01T12:00:00+02:00</published><updated>2015-05-01T12:00:00+02:00</updated><id>http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine</id><content type="html" xml:base="http://localhost:4000/metallerie/2015/05/01/table_haute_cuisine.html">&lt;p&gt;Cintrage avec cintreuse à galets.
 Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/table_haute_1.png&quot; alt=&quot;table_haute_1.png&quot; /&gt;&lt;/p&gt;
@@ -110,60 +142,4 @@ Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille disso
 
 &lt;h3 id=&quot;représentation-en-3d&quot;&gt;Représentation en 3D&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/table_haute_3D.png&quot; alt=&quot;table_haute_3D.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Cintrage avec cintreuse à galets. Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.</summary></entry><entry><title type="html">Fermeture d’un abri de voiture</title><link href="/menuiserie/2014/08/01/abri_voiture_helene.html" rel="alternate" type="text/html" title="Fermeture d'un abri de voiture" /><published>2014-08-01T23:00:00+02:00</published><updated>2014-08-01T23:00:00+02:00</updated><id>/menuiserie/2014/08/01/abri_voiture_helene</id><content type="html" xml:base="/menuiserie/2014/08/01/abri_voiture_helene.html">&lt;p&gt;A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…&lt;/p&gt;
-
-&lt;p&gt;Le travail consistait à :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;poser des poteaux intermédiaires&lt;/li&gt;
-  &lt;li&gt;poser le bardage&lt;/li&gt;
-  &lt;li&gt;fabriquer et poser une porte à 2 vantaux&lt;/li&gt;
-  &lt;li&gt;fabriquer et poser  des chassis vitrés&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/carport_portes_fermees.jpg&quot; alt=&quot;carport_portes_fermees.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;porte-à-2-vantaux&quot;&gt;Porte à 2 vantaux&lt;/h3&gt;
-
-&lt;p&gt;Les dormants sont vissés sur les poteaux. Ce sont des plats sur lesquels sont soudés des paumelles.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/cartport_portes_ouvertes_1.jpg&quot; alt=&quot;cartport_portes_ouvertes_1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fournitures utilisées :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;tube 50x30x2&lt;/li&gt;
-  &lt;li&gt;plat 30x6&lt;/li&gt;
-  &lt;li&gt;paumelles 100mm&lt;/li&gt;
-  &lt;li&gt;serrure et autre quincaillerie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/cartport_portes_ouvertes_2.jpg&quot; alt=&quot;cartport_portes_ouvertes_2.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;parties-vitrées&quot;&gt;Parties vitrées&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/carport_vitrages.jpg&quot; alt=&quot;carport_vitrages.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fournitures utilisées :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;cornière égale 30x3&lt;/li&gt;
-  &lt;li&gt;cornière inégale 30x20x3&lt;/li&gt;
-  &lt;li&gt;té 30x4&lt;/li&gt;
-  &lt;li&gt;silicones neutres pour le collage du vitrage et son étanchéité&lt;/li&gt;
-  &lt;li&gt;vitrage feuilleté 33-2, reste d’un autre chantier&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;représentation-en-3d-avant-travaux&quot;&gt;Représentation en 3D avant travaux&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/carport_3D.jpg&quot; alt=&quot;carport_3D.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;carport-avant-travaux&quot;&gt;Carport avant travaux&lt;/h3&gt;
-
-&lt;p&gt;L’existant avant travaux.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/carport_avant_travaux.jpg&quot; alt=&quot;carport_avant_travaux.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">A l’origine, l’abri de voiture était ouvert sur les cotés. L’objectif était de faire une pièce fermée à clés, qui ne sera pas humide, pour faire du rangement, sécuriser des vélos…</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/table_haute_3D.png&quot; alt=&quot;table_haute_3D.png&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Cintrage avec cintreuse à galets. Finition brossée. 2 couches de rustol, cirage avec de la cire d’abeille dissoute dans de l’essence de térébenthine.</summary></entry></feed>
