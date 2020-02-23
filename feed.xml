@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-22T20:29:29+01:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Structure à ossature bois</title><link href="/batiment/2020/02/20/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Structure à ossature bois" /><published>2020-02-20T00:00:00+01:00</published><updated>2020-02-20T00:00:00+01:00</updated><id>/batiment/2020/02/20/jonction_atelier_maison</id><content type="html" xml:base="/batiment/2020/02/20/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/jonction_atelier_maison.png&quot; alt=&quot;jonction_atelier_maison.png&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-02-23T12:10:38+01:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Structure à ossature bois</title><link href="/batiment/2020/02/20/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Structure à ossature bois" /><published>2020-02-20T00:00:00+01:00</published><updated>2020-02-20T00:00:00+01:00</updated><id>/batiment/2020/02/20/jonction_atelier_maison</id><content type="html" xml:base="/batiment/2020/02/20/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/jonction_atelier_maison.png&quot; alt=&quot;jonction_atelier_maison.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/jonction_atelier_maison.FCStd&quot;&gt;jonction_atelier_maison.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -6,11 +6,15 @@
 
 &lt;h3 id=&quot;montage-au-sol&quot;&gt;montage au sol&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîte en tôle pliée</title><link href="/musique/2020/02/05/boite_metal_musique.html" rel="alternate" type="text/html" title="Boîte en tôle pliée" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boite_metal_musique</id><content type="html" xml:base="/musique/2020/02/05/boite_metal_musique.html">&lt;p&gt;&lt;img src=&quot;/images/boite_metal_musique.png&quot; alt=&quot;boite_metal_musique.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîtier en tôle pliée pour interrupteur à pied</title><link href="/musique/2020/02/05/boite_metal_musique.html" rel="alternate" type="text/html" title="Boîtier en tôle pliée pour interrupteur à pied" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boite_metal_musique</id><content type="html" xml:base="/musique/2020/02/05/boite_metal_musique.html">&lt;p&gt;&lt;img src=&quot;/images/boite_metal_musique.png&quot; alt=&quot;boite_metal_musique.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Boîte en tôle d’acier brut 2mm d’épaisseur. Conçue avec le Workbench SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
+&lt;p&gt;Boîtier en tôle d’acier brut 2 mm d’épaisseur. Conçu avec le Workbench SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boite_metal_musique.FCStd&quot;&gt;boite_metal_musique.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Pont pour atelier</title><link href="/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T00:00:00+01:00</published><updated>2020-01-10T00:00:00+01:00</updated><id>/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="/metallerie/2020/01/10/pont_atelier.html">&lt;p&gt;&lt;img src=&quot;/images/pont_atelier.png&quot; alt=&quot;pont_atelier.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boite_metal_musique.FCStd&quot;&gt;boite_metal_musique.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ces boitiers sont plus connus sous le nom de “foot switch A/B” (utilisation avec des pédales d’effets pour instruments de musique). L’enveloppe métallique sert de blindage contre les interférences électriques.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boitier_footswitch_800x600.jpg&quot; alt=&quot;boitier_footswitch_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Pont pour atelier</title><link href="/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T00:00:00+01:00</published><updated>2020-01-10T00:00:00+01:00</updated><id>/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="/metallerie/2020/01/10/pont_atelier.html">&lt;p&gt;&lt;img src=&quot;/images/pont_atelier.png&quot; alt=&quot;pont_atelier.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fixation d’une poutre entre 2 racks. La poutre provient d’un portique roulant devenu trop encombrant.&lt;/p&gt;
 
@@ -20,7 +24,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/pont_atelier_vue_globale_800x600.jpg&quot; alt=&quot;pont_atelier_vue_globale_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;vue-du-support&quot;&gt;vue du support&lt;/h3&gt;
+&lt;h3 id=&quot;détail-du-support&quot;&gt;détail du support&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boule pour support de tom yamaha</title><link href="/impression3d/2019/08/15/yamaha_boule_support_tom.html" rel="alternate" type="text/html" title="Boule pour support de tom yamaha" /><published>2019-08-15T00:00:00+02:00</published><updated>2019-08-15T00:00:00+02:00</updated><id>/impression3d/2019/08/15/yamaha_boule_support_tom</id><content type="html" xml:base="/impression3d/2019/08/15/yamaha_boule_support_tom.html">&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
 
@@ -63,7 +67,7 @@ Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse
 
 &lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2016/03/15/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2016-03-15T00:00:00+01:00</published><updated>2016-03-15T00:00:00+01:00</updated><id>/metallerie/2016/03/15/remorque_velo</id><content type="html" xml:base="/metallerie/2016/03/15/remorque_velo.html">&lt;h3 id=&quot;utilisation-de-la-remorque&quot;&gt;Utilisation de la remorque&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2016/03/15/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2016-03-15T00:00:00+01:00</published><updated>2016-03-15T00:00:00+01:00</updated><id>/metallerie/2016/03/15/remorque_velo</id><content type="html" xml:base="/metallerie/2016/03/15/remorque_velo.html">&lt;h3 id=&quot;transport-de-mon-chien&quot;&gt;Transport de mon chien&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_loki_vern.jpg&quot; alt=&quot;remorque_loki_vern.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -71,11 +75,11 @@ Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ1_800x600.jpg&quot; alt=&quot;remorque_in_situ1_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;autre-vue&quot;&gt;Autre vue&lt;/h3&gt;
+&lt;h3 id=&quot;pour-lemmener-nager&quot;&gt;Pour l’emmener nager&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ2_800x600.jpg&quot; alt=&quot;remorque_in_situ2_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;a-latelier&quot;&gt;A l’atelier&lt;/h3&gt;
+&lt;h3 id=&quot;et-ici-à-latelier&quot;&gt;Et ici, à l’atelier&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_atelier_800x600.jpg&quot; alt=&quot;remorque_atelier_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -87,7 +91,7 @@ Finition avec un verni glycéro transparent.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Utilisation de la remorque</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T00:00:00+02:00</published><updated>2015-07-15T00:00:00+02:00</updated><id>/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
+&lt;p&gt;Avec embout à rotule.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Transport de mon chien</summary></entry><entry><title type="html">Rénovation d’un poulailler</title><link href="/batiment/2015/07/15/renovation_poulailler.html" rel="alternate" type="text/html" title="Rénovation d'un poulailler" /><published>2015-07-15T00:00:00+02:00</published><updated>2015-07-15T00:00:00+02:00</updated><id>/batiment/2015/07/15/renovation_poulailler</id><content type="html" xml:base="/batiment/2015/07/15/renovation_poulailler.html">&lt;p&gt;Rien à conserver sur ce poulailler d’avant-guerre, à part les murs. J’ai refait une charpente, posé des tuiles de récupération. J’ai aussi refait les ouvertures et la séparation intérieure.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/poulailler_portes_posees_800x600.jpg&quot; alt=&quot;poulailler_portes_posees_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
