@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-07-18T19:16:02+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d-dun-pad-8-pouces-pour-batterie-électronique&quot;&gt;Conception en 3D d’un pad 8 pouces pour batterie électronique&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-07-19T08:31:23+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d-dun-pad-8-pouces-pour-batterie-électronique&quot;&gt;Conception en 3D d’un pad 8 pouces pour batterie électronique&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_v2.png&quot; alt=&quot;pad_edrum_8in_v2.png&quot; /&gt;&lt;/p&gt;
 
@@ -18,7 +18,19 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessus_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessus_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D d’un pad 8 pouces pour batterie électronique</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h1 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D d’un pad 8 pouces pour batterie électronique</summary></entry><entry><title type="html">Niche dans un ballon galva (en cours de fabrication)</title><link href="/m%C3%A9tallerie/2020/07/09/niche_ballon.html" rel="alternate" type="text/html" title="Niche dans un ballon galva (en cours de fabrication)" /><published>2020-07-09T00:00:00+02:00</published><updated>2020-07-09T00:00:00+02:00</updated><id>/m%C3%A9tallerie/2020/07/09/niche_ballon</id><content type="html" xml:base="/m%C3%A9tallerie/2020/07/09/niche_ballon.html">&lt;h1 id=&quot;conversion-dun-ballon-galvanisé-de-1000l-réformé&quot;&gt;Conversion d’un ballon galvanisé de 1000L réformé&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/niche_ballon_FC.png&quot; alt=&quot;niche_ballon_FC.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conversion en niche d’un ballon en tôle galvanisé de 1000L.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/niche_ballon.FCStd&quot;&gt;niche_ballon.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ballon-quand-il-était-fonctionnel&quot;&gt;Ballon quand il était fonctionnel&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ballon_galva_origine.png&quot; alt=&quot;ballon_galva_origine.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ballon qui était utilisé comme réserve d’eau et qui a percé au bout de plusieurs années d’utilisation. Cette photo date de 2016.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conversion d’un ballon galvanisé de 1000L réformé</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h1 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_freecad.png&quot; alt=&quot;garde-corps_mordelles_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -36,7 +48,7 @@
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/verriere_delphine.FCStd&quot;&gt;verriere_delphine.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_0981.jpg&quot; alt=&quot;verriere_delphine_0981.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Structure à ossature bois</title><link href="/batiment/2020/02/20/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Structure à ossature bois" /><published>2020-02-20T00:00:00+01:00</published><updated>2020-02-20T00:00:00+01:00</updated><id>/batiment/2020/02/20/jonction_atelier_maison</id><content type="html" xml:base="/batiment/2020/02/20/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/jonction_atelier_maison.png&quot; alt=&quot;jonction_atelier_maison.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_0981.jpg&quot; alt=&quot;verriere_delphine_0981.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Structure à ossature bois (en cours de fabrication)</title><link href="/batiment/2020/02/20/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Structure à ossature bois (en cours de fabrication)" /><published>2020-02-20T00:00:00+01:00</published><updated>2020-02-20T00:00:00+01:00</updated><id>/batiment/2020/02/20/jonction_atelier_maison</id><content type="html" xml:base="/batiment/2020/02/20/jonction_atelier_maison.html">&lt;p&gt;&lt;img src=&quot;/images/jonction_atelier_maison.png&quot; alt=&quot;jonction_atelier_maison.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/jonction_atelier_maison.FCStd&quot;&gt;jonction_atelier_maison.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -96,15 +108,4 @@
 
 &lt;p&gt;Tôle peinte avec du rustol mélangé à de la poudre de graphite.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry><entry><title type="html">Enceinte de graves</title><link href="/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T00:00:00+02:00</published><updated>2016-05-10T00:00:00+02:00</updated><id>/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.
-Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_gros_plan_800x600.jpg&quot; alt=&quot;subwoofer_monacor_gros_plan_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;vue-densemble&quot;&gt;Vue d’ensemble&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_home-studio_800x600.jpg&quot; alt=&quot;subwoofer_monacor_home-studio_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry></feed>
