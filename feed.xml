@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-07-22T10:50:01+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-07-22T11:33:32+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_v2.png&quot; alt=&quot;pad_edrum_8in_v2.png&quot; /&gt;&lt;/p&gt;
 
@@ -30,7 +30,7 @@
 
 &lt;p&gt;Ballon en tôle galvanisé de 1000L transformé en niche pour mon chien.
 Isolé thermiquement.
-Déplaçable sur transpalette (environ 200kg)&lt;/p&gt;
+Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/niche_ballon.FCStd&quot;&gt;niche_ballon.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -86,29 +86,27 @@ Déplaçable sur transpalette (environ 200kg)&lt;/p&gt;
 
 &lt;h3 id=&quot;détail-du-support&quot;&gt;détail du support&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Support de tom yamaha</title><link href="/impression3d/2019/08/15/yamaha_boule_support_tom.html" rel="alternate" type="text/html" title="Support de tom yamaha" /><published>2019-08-15T00:00:00+02:00</published><updated>2019-08-15T00:00:00+02:00</updated><id>/impression3d/2019/08/15/yamaha_boule_support_tom</id><content type="html" xml:base="/impression3d/2019/08/15/yamaha_boule_support_tom.html">&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="/impression3d/2018/03/20/support_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/support_elements_batterie</id><content type="html" xml:base="/impression3d/2018/03/20/support_elements_batterie.html">&lt;h1 id=&quot;support-de-convertisseur-midi-roland-tmc-6&quot;&gt;Support de convertisseur MIDI Roland TMC-6&lt;/h1&gt;
 
-&lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
-
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;support-de-cloche&quot;&gt;Support de cloche&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;2-demi-sphères-imprimées-en-3d-avec-une-imprimante-ender-3-assemblées-avec-des-vis&quot;&gt;2 demi sphères imprimées en 3D (avec une imprimante ender-3) assemblées avec des vis&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_2_800x600.jpg&quot; alt=&quot;boule_yamaha_2_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Support Roland TMC6</title><link href="/impression3d/2018/03/20/support_roland_tmc6.html" rel="alternate" type="text/html" title="Support Roland TMC6" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/support_roland_tmc6</id><content type="html" xml:base="/impression3d/2018/03/20/support_roland_tmc6.html">&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezzo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha.&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;exemple-dutilisation-du-support-imprimé-en-pla-avec-une-imprimante-anet-a8&quot;&gt;Exemple d’utilisation du support imprimé en PLA (avec une imprimante anet A8)&lt;/h4&gt;
-
 &lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_1_800x600.jpg&quot; alt=&quot;support_roland_tmc6_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_2_800x600.jpg&quot; alt=&quot;support_roland_tmc6_2_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Baffles plan</title><link href="/musique/2017/03/12/baffle_plan.html" rel="alternate" type="text/html" title="Baffles plan" /><published>2017-03-12T00:00:00+01:00</published><updated>2017-03-12T00:00:00+01:00</updated><id>/musique/2017/03/12/baffle_plan</id><content type="html" xml:base="/musique/2017/03/12/baffle_plan.html">&lt;p&gt;Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;transformation-du-support-de-tom-yamaha-en-un-support-de-cloche&quot;&gt;Transformation du support de tom yamaha en un support de cloche&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Support de convertisseur MIDI Roland TMC-6</summary></entry><entry><title type="html">Baffles plan</title><link href="/musique/2017/03/12/baffle_plan.html" rel="alternate" type="text/html" title="Baffles plan" /><published>2017-03-12T00:00:00+01:00</published><updated>2017-03-12T00:00:00+01:00</updated><id>/musique/2017/03/12/baffle_plan</id><content type="html" xml:base="/musique/2017/03/12/baffle_plan.html">&lt;p&gt;Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/baffle_plan2_800x600.jpg&quot; alt=&quot;baffle_plan2_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -116,4 +114,15 @@ Déplaçable sur transpalette (environ 200kg)&lt;/p&gt;
 
 &lt;p&gt;Tôle peinte avec du rustol mélangé à de la poudre de graphite.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry><entry><title type="html">Enceinte de graves</title><link href="/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T00:00:00+02:00</published><updated>2016-05-10T00:00:00+02:00</updated><id>/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.
+Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_gros_plan_800x600.jpg&quot; alt=&quot;subwoofer_monacor_gros_plan_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vue-densemble&quot;&gt;Vue d’ensemble&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_home-studio_800x600.jpg&quot; alt=&quot;subwoofer_monacor_home-studio_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry></feed>
