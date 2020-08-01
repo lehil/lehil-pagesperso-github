@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-01T12:30:40+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-01T19:10:42+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -39,7 +39,31 @@ Roues de bmx en 20 pouces.&lt;/p&gt;
 
 &lt;p&gt;Elle m’a servi, durant l’été 2020, à envoyer environ 2 tonnes d’ardoises à la déchetterie en une quinzaine de voyages.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/remorque_ardoises_800x600.jpg&quot; alt=&quot;remorque_ardoises_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la remorque</summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/remorque_ardoises_800x600.jpg&quot; alt=&quot;remorque_ardoises_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la remorque</summary></entry><entry><title type="html">Galerie de toit T5</title><link href="/metallerie/2020/07/22/galerie_toit_T5.html" rel="alternate" type="text/html" title="Galerie de toit T5" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/metallerie/2020/07/22/galerie_toit_T5</id><content type="html" xml:base="/metallerie/2020/07/22/galerie_toit_T5.html">&lt;h1 id=&quot;modélisation-dune-galerie-de-toit-pour-un-fourgon-transporter-t5&quot;&gt;Modélisation d’une galerie de toit pour un fourgon Transporter T5&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/galerie_toit_t5_freecad.png&quot; alt=&quot;galerie_toit_t5_freecad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/galerie_toit_t5.fcstd&quot;&gt;galerie_toit_t5.fcstd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Galerie fabriquée en 2013. A l’origine, je l’avais dessinée en 2D avec Draftsight. Je l’ai redessinée en 3D, pour le plaisir.&lt;/p&gt;
+
+&lt;p&gt;Galerie de toit faite à partir de tubes d’acier cintrable (12/17 et 15/21), de tube carré 20x20x2 et du plat de 20x6.&lt;/p&gt;
+
+&lt;p&gt;Moyens utilisés:  cintreuse mingori, forme mingori pour tube 15/21 (rayon de cintrage 70), forme mingori pour tube 12/17 (rayon de cintrage 55), coupe-tube, presse_plieuse, soudure à l’électrode et au tig.&lt;/p&gt;
+
+&lt;p&gt;Galvanisation à chaud.&lt;/p&gt;
+
+&lt;h1 id=&quot;galerie-en-place&quot;&gt;Galerie en place&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/galerie_T5.jpg&quot; alt=&quot;galerie_T5.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;galerie-stockée-sur-un-portique-dans-latelier&quot;&gt;Galerie stockée sur un portique, dans l’atelier&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/galerie_T5_portique_800x600.jpg&quot; alt=&quot;galerie_T5_portique_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour mettre en place la gallerie sur le toit du fourgon, je place le fourgon sous le portique, et je descends la gallerie en désserrant les mouflages réalisés avec des poulies et des cordes de spéléo.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation d’une galerie de toit pour un fourgon Transporter T5</summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_v2.png&quot; alt=&quot;pad_edrum_8in_v2.png&quot; /&gt;&lt;/p&gt;
 
@@ -93,7 +117,7 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="/metallerie/2020/04/10/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_freecad.png&quot; alt=&quot;verriere_delphine_freecad.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Version mise à jour de la modélisation d’origine faite en 2014.&lt;/p&gt;
+&lt;p&gt;Dessin réalisé pendant le confinement, en 2020, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai réalisé ce projet en 2014.&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/verriere_delphine.FCStd&quot;&gt;verriere_delphine.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -149,12 +173,4 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Support de convertisseur MIDI Roland TMC-6</summary></entry><entry><title type="html">Baffles plan</title><link href="/musique/2017/03/12/baffle_plan.html" rel="alternate" type="text/html" title="Baffles plan" /><published>2017-03-12T00:00:00+01:00</published><updated>2017-03-12T00:00:00+01:00</updated><id>/musique/2017/03/12/baffle_plan</id><content type="html" xml:base="/musique/2017/03/12/baffle_plan.html">&lt;p&gt;Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/baffle_plan2_800x600.jpg&quot; alt=&quot;baffle_plan2_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Haut parleur Beyma 12GA50 large bande 12 pouces pour guitare.&lt;/p&gt;
-
-&lt;p&gt;Tôle peinte avec du rustol mélangé à de la poudre de graphite.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Support de convertisseur MIDI Roland TMC-6</summary></entry></feed>
