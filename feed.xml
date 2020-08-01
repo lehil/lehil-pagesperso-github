@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-07-22T11:38:10+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-01T12:30:40+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/remorque_velo_sans_roues.FCStd&quot;&gt;remorque_velo_sans_roues.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fabrication en 2016. Modélisation refaite avec freecad en 2020.&lt;/p&gt;
+
+&lt;p&gt;Tubes d’acier cintrable diamètre 21,3mm.
+Outillage: cintreuse Mingori (forme pour tube 15/21, rayon de cintrage 70mm), soudure tig et electrodes enrobées.
+Finition avec un verni glycéro transparent.
+Roues de bmx en 20 pouces.&lt;/p&gt;
+
+&lt;h3 id=&quot;transport-de-mon-chien&quot;&gt;Transport de mon chien&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_loki_vern.jpg&quot; alt=&quot;remorque_loki_vern.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aux-étangs-de-vern-sur-seiche&quot;&gt;Aux étangs de Vern-sur-seiche&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ1_800x600.jpg&quot; alt=&quot;remorque_in_situ1_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pour-lemmener-nager&quot;&gt;Pour l’emmener nager&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ2_800x600.jpg&quot; alt=&quot;remorque_in_situ2_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;et-ici-à-latelier&quot;&gt;Et ici, à l’atelier&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_atelier_800x600.jpg&quot; alt=&quot;remorque_atelier_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;détail-de-larticulation&quot;&gt;Détail de l’articulation&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Avec embout à rotule.&lt;/p&gt;
+
+&lt;h3 id=&quot;polyvalence&quot;&gt;Polyvalence&lt;/h3&gt;
+
+&lt;p&gt;Cette remorque me permet aussi d’aller chercher des colis volumineux en centre ville ou de transporter des charges lourdes de plus de 100kg.&lt;/p&gt;
+
+&lt;p&gt;Elle m’a servi, durant l’été 2020, à envoyer environ 2 tonnes d’ardoises à la déchetterie en une quinzaine de voyages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_ardoises_800x600.jpg&quot; alt=&quot;remorque_ardoises_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la remorque</summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_v2.png&quot; alt=&quot;pad_edrum_8in_v2.png&quot; /&gt;&lt;/p&gt;
 
@@ -64,13 +105,15 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;montage-au-sol&quot;&gt;montage au sol&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîtier en tôle pliée pour interrupteur à pied</title><link href="/musique/2020/02/05/boitier_interrupteur.html" rel="alternate" type="text/html" title="Boîtier en tôle pliée pour interrupteur à pied" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boitier_interrupteur</id><content type="html" xml:base="/musique/2020/02/05/boitier_interrupteur.html">&lt;p&gt;&lt;img src=&quot;/images/boitier_interrupteur.png&quot; alt=&quot;boitier_interrupteur.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîtiers métalliques pour pédales d’effets</title><link href="/musique/2020/02/05/boitier_interrupteur.html" rel="alternate" type="text/html" title="Boîtiers métalliques pour pédales d'effets" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boitier_interrupteur</id><content type="html" xml:base="/musique/2020/02/05/boitier_interrupteur.html">&lt;p&gt;&lt;img src=&quot;/images/boitier_interrupteur.png&quot; alt=&quot;boitier_interrupteur.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Boîtier en tôle d’acier brut 2 mm d’épaisseur. Conçu avec le Workbench SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
+&lt;p&gt;Boîtier en tôle d’acier brut 2 mm d’épaisseur. Dessiné avec l’atelier’ SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boitier_interrupteur.FCStd&quot;&gt;boitier_interrupteur.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Ces boitiers sont plus connus sous le nom de “foot switch A/B” (utilisation avec des pédales d’effets pour instruments de musique). L’enveloppe métallique sert de blindage contre les interférences électriques.&lt;/p&gt;
+&lt;h3 id=&quot;pédales-footswitch-ab-pour-instruments-de-musique-électriques&quot;&gt;pédales footswitch A/B (pour instruments de musique électriques)&lt;/h3&gt;
+
+&lt;p&gt;L’enveloppe métallique sert de blindage contre les interférences électriques.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/boitier_interrupteur_800x600.jpg&quot; alt=&quot;boitier_interrupteur_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -114,15 +157,4 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;Tôle peinte avec du rustol mélangé à de la poudre de graphite.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry><entry><title type="html">Enceinte de graves</title><link href="/musique/2016/05/10/subwoofer_monacor.html" rel="alternate" type="text/html" title="Enceinte de graves" /><published>2016-05-10T00:00:00+02:00</published><updated>2016-05-10T00:00:00+02:00</updated><id>/musique/2016/05/10/subwoofer_monacor</id><content type="html" xml:base="/musique/2016/05/10/subwoofer_monacor.html">&lt;p&gt;Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring.
-Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_gros_plan_800x600.jpg&quot; alt=&quot;subwoofer_monacor_gros_plan_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;vue-densemble&quot;&gt;Vue d’ensemble&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_home-studio_800x600.jpg&quot; alt=&quot;subwoofer_monacor_home-studio_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;vue-de-lintérieur&quot;&gt;Vue de l’intérieur&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/subwoofer_monacor_demonte_800x600.jpg&quot; alt=&quot;subwoofer_monacor_demonte_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Enceinte pour rajouter des graves sur une installation avec des enceintes de monitoring. Fabriquée en tôle d’acier de 2mm d’épaisseur. Pliage à la presse-plieuse.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/baffle_plan1_800x600.jpg&quot; alt=&quot;baffle_plan1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Baffles plan (qts 1,16) en tôle d’acier 2 mm et cornière 30x30.</summary></entry></feed>
