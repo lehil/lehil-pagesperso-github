@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-01T19:35:02+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-02T08:23:54+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -6,12 +6,25 @@
 
 &lt;p&gt;Fabrication en 2016. Modélisation refaite avec freecad en 2020.&lt;/p&gt;
 
-&lt;p&gt;Tubes d’acier cintrable diamètre 21,3mm.
-Outillage: cintreuse Mingori (forme pour tube 15/21, rayon de cintrage 70mm), soudure tig et electrodes enrobées.
-Finition avec un verni glycéro transparent.
-Roues de bmx en 20 pouces.&lt;/p&gt;
+&lt;p&gt;Tubes d’acier cintrable diamètre 21,3mm.&lt;/p&gt;
 
-&lt;h3 id=&quot;transport-de-mon-chien&quot;&gt;Transport de mon chien&lt;/h3&gt;
+&lt;p&gt;Outillage: cintreuse Mingori (forme pour tube 15/21, rayon de cintrage 70mm), soudure tig et electrodes enrobées.&lt;/p&gt;
+
+&lt;p&gt;Finition avec un verni glycéro transparent.&lt;/p&gt;
+
+&lt;p&gt;Roues de bmx (20 pouces), roues avant et arrière avec ou sans le pignon.&lt;/p&gt;
+
+&lt;h3 id=&quot;à-latelier-remorque-terminée-sur-béquille-mai-2016&quot;&gt;à l’atelier, remorque terminée, sur béquille (mai 2016)&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_atelier_800x600.jpg&quot; alt=&quot;remorque_atelier_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;détail-de-larticulation&quot;&gt;Détail de l’articulation&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Avec embout à rotule.&lt;/p&gt;
+
+&lt;h3 id=&quot;transport-de-mon-chien-mai-2016&quot;&gt;Transport de mon chien (mai 2016)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_loki_vern.jpg&quot; alt=&quot;remorque_loki_vern.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -23,47 +36,37 @@ Roues de bmx en 20 pouces.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_in_situ2_800x600.jpg&quot; alt=&quot;remorque_in_situ2_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;et-ici-à-latelier&quot;&gt;Et ici, à l’atelier&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/remorque_atelier_800x600.jpg&quot; alt=&quot;remorque_atelier_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;détail-de-larticulation&quot;&gt;Détail de l’articulation&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/remorque_detail_rotule.jpg&quot; alt=&quot;remorque_detail_rotule.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Avec embout à rotule.&lt;/p&gt;
-
-&lt;h3 id=&quot;polyvalence&quot;&gt;Polyvalence&lt;/h3&gt;
+&lt;h3 id=&quot;durabilité-juin-2020&quot;&gt;Durabilité (juin 2020)&lt;/h3&gt;
 
 &lt;p&gt;Cette remorque me permet aussi d’aller chercher des colis volumineux en centre ville ou de transporter des charges lourdes de plus de 100kg.&lt;/p&gt;
 
-&lt;p&gt;Elle m’a servi, durant l’été 2020, à envoyer environ 2 tonnes d’ardoises à la déchetterie en une quinzaine de voyages.&lt;/p&gt;
+&lt;p&gt;Elle m’a servi, au début de l’été 2020, à transporter environ 2 tonnes d’ardoises à la déchetterie en une quinzaine de voyages.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/remorque_ardoises_800x600.jpg&quot; alt=&quot;remorque_ardoises_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la remorque</summary></entry><entry><title type="html">Galerie de toit T5</title><link href="/metallerie/2020/07/22/galerie_toit_T5.html" rel="alternate" type="text/html" title="Galerie de toit T5" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/metallerie/2020/07/22/galerie_toit_T5</id><content type="html" xml:base="/metallerie/2020/07/22/galerie_toit_T5.html">&lt;h1 id=&quot;modélisation-dune-galerie-de-toit-pour-un-fourgon-transporter-t5&quot;&gt;Modélisation d’une galerie de toit pour un fourgon Transporter T5&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/remorque_ardoises_800x600.jpg&quot; alt=&quot;remorque_ardoises_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la remorque</summary></entry><entry><title type="html">Galerie de toit pour Transporter T5</title><link href="/metallerie/2020/07/22/galerie_toit_T5.html" rel="alternate" type="text/html" title="Galerie de toit pour Transporter T5" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/metallerie/2020/07/22/galerie_toit_T5</id><content type="html" xml:base="/metallerie/2020/07/22/galerie_toit_T5.html">&lt;h3 id=&quot;modélisation-de-la-galerie&quot;&gt;Modélisation de la galerie&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/galerie_toit_t5_freecad.png&quot; alt=&quot;galerie_toit_t5_freecad.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/galerie_toit_t5.fcstd&quot;&gt;galerie_toit_t5.fcstd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Galerie fabriquée en 2013. A l’origine, je l’ai dessinée en 2D avec Draftsight, le clone gratuit d’Autocad qui fonctionnait sous Linux.&lt;/p&gt;
+&lt;p&gt;A l’origine, je l’ai dessinée en 2D avec Draftsight, le clone gratuit (en 2013) d’Autocad qui fonctionnait sous Linux.&lt;/p&gt;
 
 &lt;p&gt;Galerie de toit faite à partir de tubes d’acier cintrable (12/17 et 15/21), de tube carré 20x20x2 et de plat 20x6.&lt;/p&gt;
 
-&lt;p&gt;Moyens utilisés:  cintreuse mingori, forme mingori pour tube 15/21 (rayon de cintrage 70), forme mingori pour tube 12/17 (rayon de cintrage 55), coupe-tube, presse-plieuse, soudure à l’électrode et au tig.&lt;/p&gt;
+&lt;p&gt;Moyens utilisés:  cintreuse mingori, forme mingori pour tube 15/21 (rayon de cintrage 70), forme mingori pour tube 12/17 (rayon de cintrage 55), coupe-tube, plieuse, soudure à l’électrode et au tig.&lt;/p&gt;
 
-&lt;p&gt;Galvanisation à chaud.&lt;/p&gt;
+&lt;p&gt;Fabrication “maison” en 2013 et galvanisation à chaud par une entreprise extérieure.&lt;/p&gt;
 
-&lt;h1 id=&quot;galerie-en-place&quot;&gt;Galerie en place&lt;/h1&gt;
+&lt;h3 id=&quot;galerie-montée-sur-le-t5&quot;&gt;Galerie montée sur le T5&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/galerie_T5.jpg&quot; alt=&quot;galerie_T5.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;La galerie est montée et démontée suivant les besoins de transport sur le toit. Je ne roule pas avec à vide.&lt;/p&gt;
 
-&lt;h1 id=&quot;galerie-stockée-sur-un-portique-dans-latelier&quot;&gt;Galerie stockée sur un portique, dans l’atelier&lt;/h1&gt;
+&lt;h3 id=&quot;galerie-stockée-sur-un-portique-dans-latelier&quot;&gt;Galerie stockée sur un portique, dans l’atelier&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/galerie_T5_portique_800x600.jpg&quot; alt=&quot;galerie_T5_portique_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Pour mettre en place la galerie sur le toit du fourgon, je place le fourgon sous le portique, et je descends la galerie en désserrant les mouflages réalisés avec des poulies et des cordes de spéléo.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation d’une galerie de toit pour un fourgon Transporter T5</summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h1 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h1&gt;
+&lt;p&gt;Pour monter la galerie sur le toit du fourgon, je place le fourgon sous le portique, et je descends la galerie en désserrant les mouflages (technique de levage avec des cordes de spéléo et des poulies).&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation de la galerie</summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8&quot; pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="/impression3d/2020/07/10/pad_edrum_8in.html">&lt;h3 id=&quot;conception-en-3d&quot;&gt;Conception en 3D&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_v2.png&quot; alt=&quot;pad_edrum_8in_v2.png&quot; /&gt;&lt;/p&gt;
 
@@ -71,7 +74,7 @@ Roues de bmx en 20 pouces.&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/pad_edrum_8in_v2.FCStd&quot;&gt;pad_edrum_8in_v2.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;remarques-sur-limprimante-3d&quot;&gt;Remarques sur l’imprimante 3D&lt;/h1&gt;
+&lt;h3 id=&quot;remarques-sur-limprimante-3d&quot;&gt;Remarques sur l’imprimante 3D&lt;/h3&gt;
 
 &lt;p&gt;Surface minimum de la table d’impression : 235 mm x 235 mm.&lt;/p&gt;
 
@@ -79,17 +82,17 @@ Roues de bmx en 20 pouces.&lt;/p&gt;
 
 &lt;p&gt;Pour une imprimante Creality Ender-3, la surface d’impression d’origine est en 220x220. Il faut flasher le firmware d’origine et installer Marlin en v.2 pour forcer la surface d’impression en 235x235.&lt;/p&gt;
 
-&lt;h1 id=&quot;intérieur-du-pad-avec-le-capteur-piezo&quot;&gt;Intérieur du pad avec le capteur piezo&lt;/h1&gt;
+&lt;h3 id=&quot;intérieur-du-pad-avec-le-capteur-piezo&quot;&gt;Intérieur du pad avec le capteur piezo&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_interieur_piezo_800x600.jpg&quot; alt=&quot;pad_edrum_8in_interieur_piezo_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Capteur piezo relié à un simple jack femelle, monté avec du scotch double face 3M et de la mousse provenant d’un joint compribande. Essai concluant avec un module Roland TMC-6 (Trigger Midi Converter).&lt;/p&gt;
 
-&lt;h1 id=&quot;présentation-du-pad-sur-la-batterie&quot;&gt;Présentation du pad sur la batterie&lt;/h1&gt;
+&lt;h3 id=&quot;présentation-du-pad-sur-la-batterie&quot;&gt;Présentation du pad sur la batterie&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessus_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessus_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D</summary></entry><entry><title type="html">Conversion d’un ballon galva (en cours de fabrication)</title><link href="/m%C3%A9tallerie/2020/07/09/niche_ballon.html" rel="alternate" type="text/html" title="Conversion d'un ballon galva (en cours de fabrication)" /><published>2020-07-09T00:00:00+02:00</published><updated>2020-07-09T00:00:00+02:00</updated><id>/m%C3%A9tallerie/2020/07/09/niche_ballon</id><content type="html" xml:base="/m%C3%A9tallerie/2020/07/09/niche_ballon.html">&lt;h1 id=&quot;dessin-3d-du-projet&quot;&gt;Dessin 3D du projet&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D</summary></entry><entry><title type="html">Conversion d’un ballon galva (en cours de fabrication)</title><link href="/m%C3%A9tallerie/2020/07/09/niche_ballon.html" rel="alternate" type="text/html" title="Conversion d'un ballon galva (en cours de fabrication)" /><published>2020-07-09T00:00:00+02:00</published><updated>2020-07-09T00:00:00+02:00</updated><id>/m%C3%A9tallerie/2020/07/09/niche_ballon</id><content type="html" xml:base="/m%C3%A9tallerie/2020/07/09/niche_ballon.html">&lt;h3 id=&quot;dessin-3d-du-projet&quot;&gt;Dessin 3D du projet&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/niche_ballon_FC.png&quot; alt=&quot;niche_ballon_FC.png&quot; /&gt;&lt;/p&gt;
 
@@ -99,25 +102,25 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/niche_ballon.FCStd&quot;&gt;niche_ballon.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;ballon-quand-il-était-fonctionnel&quot;&gt;Ballon quand il était fonctionnel&lt;/h1&gt;
+&lt;h3 id=&quot;ballon-quand-il-était-fonctionnel&quot;&gt;Ballon quand il était fonctionnel&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/ballon_galva_origine.png&quot; alt=&quot;ballon_galva_origine.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Utilisé comme réserve d’eau sous pression et qui a percé au bout de plusieurs années d’utilisation. Photo 2016.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Dessin 3D du projet</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h1 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h1&gt;
+&lt;p&gt;Utilisé comme réserve d’eau sous pression et qui a percé au bout de plusieurs années d’utilisation. Photo 2016.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Dessin 3D du projet</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h3 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_freecad.png&quot; alt=&quot;garde-corps_mordelles_freecad.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/garde-corps_mordelles.FCStd&quot;&gt;garde-corps_mordelles.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;fabrication-à-latelier-soudage-à-lélectrode&quot;&gt;Fabrication à l’atelier. Soudage à l’électrode.&lt;/h1&gt;
+&lt;h3 id=&quot;fabrication-à-latelier-soudage-à-lélectrode&quot;&gt;Fabrication à l’atelier. Soudage à l’électrode.&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_atelier_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_atelier_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;fixation-provisoire-du-garde-corps-avant-le-démontage-pour-la-mise-en-peinture&quot;&gt;Fixation provisoire du garde-corps avant le démontage pour la mise en peinture.&lt;/h1&gt;
+&lt;h3 id=&quot;fixation-provisoire-du-garde-corps-avant-le-démontage-pour-la-mise-en-peinture&quot;&gt;Fixation provisoire du garde-corps avant le démontage pour la mise en peinture.&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="/metallerie/2020/04/10/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_freecad.png&quot; alt=&quot;verriere_delphine_freecad.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Dessin réalisé pendant le confinement, en 2020, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai réalisé cette &lt;a href=&quot;/metallerie/2014/06/23/verriere_delphine.html&quot;&gt;verrière&lt;/a&gt; en 2014.&lt;/p&gt;
+&lt;p&gt;Dessin réalisé pendant le “confinement de 2020”, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai réalisé cette &lt;a href=&quot;/metallerie/2014/06/23/verriere_delphine.html&quot;&gt;verrière en 2014&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/verriere_delphine.FCStd&quot;&gt;verriere_delphine.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -153,7 +156,7 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;détail-du-support&quot;&gt;détail du support&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="/impression3d/2018/03/20/supports_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/supports_elements_batterie</id><content type="html" xml:base="/impression3d/2018/03/20/supports_elements_batterie.html">&lt;h1 id=&quot;support-de-convertisseur-midi-roland-tmc-6&quot;&gt;Support de convertisseur MIDI Roland TMC-6&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="/impression3d/2018/03/20/supports_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/supports_elements_batterie</id><content type="html" xml:base="/impression3d/2018/03/20/supports_elements_batterie.html">&lt;h3 id=&quot;support-de-convertisseur-midi-roland-tmc-6&quot;&gt;Support de convertisseur MIDI Roland TMC-6&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
 
@@ -165,7 +168,7 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;transformation-du-support-de-tom-yamaha-en-un-support-de-cloche&quot;&gt;Transformation du support de tom yamaha en un support de cloche&lt;/h1&gt;
+&lt;h3 id=&quot;transformation-du-support-de-tom-yamaha-en-un-support-de-cloche&quot;&gt;Transformation du support de tom yamaha en un support de cloche&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
 
