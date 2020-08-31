@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-02T08:23:54+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-31T15:45:11+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour pédale de grosse caisse de batterie (en cours de fabrication)</title><link href="/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour pédale de grosse caisse de batterie (en cours de fabrication)" /><published>2020-08-31T00:00:00+02:00</published><updated>2020-08-31T00:00:00+02:00</updated><id>/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse.html">&lt;h3 id=&quot;modélisation-du-support-de-cloche&quot;&gt;Modélisation du support de cloche&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_freecad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/support_cloche_pedale_grosse_caisse.FCStd&quot;&gt;support_cloche_pedale_grosse_caisse.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;matière : Plat acier 25x4, tube acier carré 20x2, carré inox 14, rond inox diamètre 10.&lt;/p&gt;
+
+&lt;p&gt;Outillage: presse-plieuse, vé de 20 (rayon 3,3mm correspondant à l’épaisseur 4mm et vé 20)&lt;/p&gt;
+
+&lt;h3 id=&quot;représentation-3d-du-pliage-de-lélément-central&quot;&gt;Représentation 3D du pliage de l’élément central&lt;/h3&gt;
+
+&lt;p&gt;Le dessin en 3D permet de vérifier que la pièce ne touche pas les outils pendant le pliage et permet aussi de déterminer les distances de butées. Cette pièce a 2 angles combinés lors de 2 derniers pliages (pliage de 80° et angle de 80° sur un plan horizontal par rapport au vé).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_pliage_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_pliage_freecad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/outils_pliage_support_cloche_pedale_grosse_caisse.FCStd&quot;&gt;outils_pliage_support_cloche_pedale_grosse_caisse.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du support de cloche</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -120,7 +136,7 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="/metallerie/2020/04/10/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_freecad.png&quot; alt=&quot;verriere_delphine_freecad.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Dessin réalisé pendant le “confinement de 2020”, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai réalisé cette &lt;a href=&quot;/metallerie/2014/06/23/verriere_delphine.html&quot;&gt;verrière en 2014&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dessin réalisé pendant le “confinement de 2020”, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai fabriqué cette &lt;a href=&quot;/metallerie/2014/06/23/verriere_delphine.html&quot;&gt;verrière en 2014&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/verriere_delphine.FCStd&quot;&gt;verriere_delphine.FCStd&lt;/a&gt;&lt;/p&gt;
 
@@ -132,11 +148,11 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;montage-au-sol&quot;&gt;montage au sol&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîtiers métalliques pour pédales d’effets</title><link href="/musique/2020/02/05/boitier_interrupteur.html" rel="alternate" type="text/html" title="Boîtiers métalliques pour pédales d'effets" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boitier_interrupteur</id><content type="html" xml:base="/musique/2020/02/05/boitier_interrupteur.html">&lt;p&gt;&lt;img src=&quot;/images/boitier_interrupteur.png&quot; alt=&quot;boitier_interrupteur.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/montage_structure_bois_au_sol_800x600.jpg&quot; alt=&quot;montage_structure_bois_au_sol_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Boîtiers métalliques pour pédales d’effets</title><link href="/musique/2020/02/05/boitier_interrupteur.html" rel="alternate" type="text/html" title="Boîtiers métalliques pour pédales d'effets" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>/musique/2020/02/05/boitier_interrupteur</id><content type="html" xml:base="/musique/2020/02/05/boitier_interrupteur.html">&lt;p&gt;&lt;img src=&quot;/images/boitier_interrupteur_v2_FreeCad.png&quot; alt=&quot;boitier_interrupteur_v2_FreeCad.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Boîtier en tôle d’acier brut 2 mm d’épaisseur. Dessiné avec l’atelier’ SheetMetal de FreeCAD (module pour plier/déplier une tôle).&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boitier_interrupteur.FCStd&quot;&gt;boitier_interrupteur.FCStd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/boitier_interrupteur_v2.FCStd&quot;&gt;boitier_interrupteur_v2.FCStd&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;pédales-footswitch-ab-pour-instruments-de-musique-électriques&quot;&gt;pédales footswitch A/B (pour instruments de musique électriques)&lt;/h3&gt;
 
@@ -156,24 +172,4 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;détail-du-support&quot;&gt;détail du support&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="/impression3d/2018/03/20/supports_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/supports_elements_batterie</id><content type="html" xml:base="/impression3d/2018/03/20/supports_elements_batterie.html">&lt;h3 id=&quot;support-de-convertisseur-midi-roland-tmc-6&quot;&gt;Support de convertisseur MIDI Roland TMC-6&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezzo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha.&lt;/p&gt;
-
-&lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_1_800x600.jpg&quot; alt=&quot;support_roland_tmc6_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;transformation-du-support-de-tom-yamaha-en-un-support-de-cloche&quot;&gt;Transformation du support de tom yamaha en un support de cloche&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
-
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Support de convertisseur MIDI Roland TMC-6</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry></feed>
