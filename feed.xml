@@ -1,22 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-08-31T16:01:05+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour batterie (en cours de fabrication)</title><link href="/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie (en cours de fabrication)" /><published>2020-08-31T00:00:00+02:00</published><updated>2020-08-31T00:00:00+02:00</updated><id>/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/08/31/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Il s’agit d’un support de cloche pour pédale de grosse caisse de batterie. C’est surtout utilisé par les batteurs de musique afro-cubaine. Ce support se positionne sur une pédale de grosse caisse et l’ensemble se met entre les pieds des cymbales Hi-hat. Cela permet, par exemple, de jouer des claves sur la cloche avec le talon du pied gauche (pour les droitiers), en maintenant fermé le Hi-hat avec la pointe du pied.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-10-15T22:42:01+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour batterie</title><link href="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-10-15T00:00:00+02:00</published><updated>2020-10-15T00:00:00+02:00</updated><id>/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.&lt;/p&gt;
+
+&lt;p&gt;C’est un accessoire principalement utilisé pour la musique afro-cubaine. Il permet le jeu de claves à côté de la pédale charleston sur batterie acoustique.&lt;/p&gt;
 
 &lt;h3 id=&quot;modélisation-du-support-de-cloche&quot;&gt;Modélisation du support de cloche&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_freecad.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/support_cloche_pedale_grosse_caisse.FCStd&quot;&gt;support_cloche_pedale_grosse_caisse.FCStd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/support_inox_pour_pedale_grosse_caisse.FCStd&quot;&gt;support_inox_pour_pedale_grosse_caisse.FCStd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;matière : Plat acier 25x4, tube acier carré 20x2, carré inox 14, rond inox diamètre 10.&lt;/p&gt;
+&lt;p&gt;matière : Plat inox 20x4, tube inox carré 20x1.5, carré inox 14, rond inox diamètre 10, plat inox ep 2mm.
+Les pieds anti-dérapages sont imprimés en 3D avec du PLA.&lt;/p&gt;
 
-&lt;p&gt;Outillage: presse-plieuse, vé de 20 (l’abaque Promecam donne un rayon interne de pliage de 3,3 mm correspondant à l’épaisseur 4 mm et vé 20)&lt;/p&gt;
+&lt;p&gt;Outillage: presse maison pour le pliage, vé de 32 (l’abaque Promecam donne un rayon interne de pliage de 5 mm correspondant à l’épaisseur 4 mm pour un vé de 32), poste de soudure tig.&lt;/p&gt;
 
-&lt;h3 id=&quot;représentation-3d-du-pliage-de-lélément-central&quot;&gt;Représentation 3D du pliage de l’élément central&lt;/h3&gt;
+&lt;h3 id=&quot;etapes-de-la-fabrication&quot;&gt;Etapes de la fabrication&lt;/h3&gt;
 
-&lt;p&gt;Le dessin en 3D permet de vérifier que la pièce ne touche pas les outils pendant le pliage et permet aussi de déterminer les distances de butées. Cette pièce a 2 angles combinés lors de 2 derniers pliages (pliage de 80° et angle de 80° sur un plan horizontal par rapport au vé).&lt;/p&gt;
+&lt;h4 id=&quot;pliage-des-plats-inox&quot;&gt;Pliage des plats inox.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_pliage_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_pliage_freecad.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Concernant l’outil de pliage, c’est un montage que j’ai fait il y a quelques années, avec des chutes d’IPN, un cric bouteille de 20 tonnes, des tronçons de vé et de contre-vé.&lt;/p&gt;
 
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/outils_pliage_support_cloche_pedale_grosse_caisse.FCStd&quot;&gt;outils_pliage_support_cloche_pedale_grosse_caisse.FCStd&lt;/a&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Il s’agit d’un support de cloche pour pédale de grosse caisse de batterie. C’est surtout utilisé par les batteurs de musique afro-cubaine. Ce support se positionne sur une pédale de grosse caisse et l’ensemble se met entre les pieds des cymbales Hi-hat. Cela permet, par exemple, de jouer des claves sur la cloche avec le talon du pied gauche (pour les droitiers), en maintenant fermé le Hi-hat avec la pointe du pied.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_pliage_800x600.jpg&quot; alt=&quot;support_cloche_gc_pliage_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;soudure-inox-en-cours&quot;&gt;Soudure inox en cours.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_soudure_inox_800x600.jpg&quot; alt=&quot;support_cloche_gc_soudure_inox_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La pièce a été passivée avec un mélange d’acide nitrique et fluorhydrique après les soudures.&lt;/p&gt;
+
+&lt;h4 id=&quot;impression-3d-des-pieds-anti-dérapages&quot;&gt;Impression 3D des pieds anti-dérapages&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_impression_3D_pied_800x600.jpg&quot; alt=&quot;support_cloche_gc_impression_3D_pied_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;support-en-situation&quot;&gt;Support en situation&lt;/h3&gt;
+
+&lt;p&gt;Exemple de montage avec une cloche LP “Black Beauty”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
