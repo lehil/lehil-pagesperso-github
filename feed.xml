@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-10-15T22:42:01+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour batterie</title><link href="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-10-15T00:00:00+02:00</published><updated>2020-10-15T00:00:00+02:00</updated><id>/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-10-18T22:57:24+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour batterie</title><link href="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-10-15T00:00:00+02:00</published><updated>2020-10-15T00:00:00+02:00</updated><id>/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/10/15/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.&lt;/p&gt;
 
 &lt;p&gt;C’est un accessoire principalement utilisé pour la musique afro-cubaine. Il permet le jeu de claves à côté de la pédale charleston sur batterie acoustique.&lt;/p&gt;
 
@@ -25,17 +25,21 @@ Les pieds anti-dérapages sont imprimés en 3D avec du PLA.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_soudure_inox_800x600.jpg&quot; alt=&quot;support_cloche_gc_soudure_inox_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;La pièce a été passivée avec un mélange d’acide nitrique et fluorhydrique après les soudures.&lt;/p&gt;
+&lt;p&gt;Après les soudures, la pièce a été passivée à l’acide.&lt;/p&gt;
 
-&lt;h4 id=&quot;impression-3d-des-pieds-anti-dérapages&quot;&gt;Impression 3D des pieds anti-dérapages&lt;/h4&gt;
+&lt;h4 id=&quot;impression-3d-des-pieds&quot;&gt;Impression 3D des pieds&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_impression_3D_pied_800x600.jpg&quot; alt=&quot;support_cloche_gc_impression_3D_pied_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;support-en-situation&quot;&gt;Support en situation&lt;/h3&gt;
+&lt;h3 id=&quot;montage-avec-une-cloche-lp-black-beauty&quot;&gt;Montage avec une cloche LP “Black Beauty”&lt;/h3&gt;
 
-&lt;p&gt;Exemple de montage avec une cloche LP “Black Beauty”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_seul_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_seul_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+&lt;h3 id=&quot;montage-en-situation-réelle&quot;&gt;Montage en situation réelle&lt;/h3&gt;
+
+&lt;p&gt;avec un déport imprimé en 3D de la batte pour éviter de toucher le pied des cymbales Charleston&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
