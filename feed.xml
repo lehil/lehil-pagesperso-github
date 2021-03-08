@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-10-18T23:17:12+02:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Support de cloche pour batterie</title><link href="/metallerie/2020/10/18/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-10-18T00:00:00+02:00</published><updated>2020-10-18T00:00:00+02:00</updated><id>/metallerie/2020/10/18/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/10/18/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.&lt;/p&gt;
-
-&lt;p&gt;C’est un accessoire principalement utilisé pour la musique afro-cubaine. Il permet le jeu de claves à côté de la pédale charleston sur batterie acoustique.&lt;/p&gt;
-
-&lt;h3 id=&quot;modélisation-du-support-de-cloche&quot;&gt;Modélisation du support de cloche&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_freecad.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/support_cloche_pedale_grosse_caisse_V2.FCStd&quot;&gt;support_cloche_pedale_grosse_caisse_V2.FCStd&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;matière : Plat inox 20x4, tube inox carré 20x1.5, carré inox 14, rond inox diamètre 10, plat inox ep 2mm.
-Les pieds à visser sont imprimés en 3D avec du PLA.&lt;/p&gt;
-
-&lt;p&gt;Outillage: presse maison pour le pliage, vé de 32 (l’abaque Promecam donne un rayon interne de pliage de 5 mm correspondant à l’épaisseur 4 mm pour un vé de 32), poste de soudure tig.&lt;/p&gt;
-
-&lt;h3 id=&quot;etapes-de-la-fabrication&quot;&gt;Etapes de la fabrication&lt;/h3&gt;
-
-&lt;h4 id=&quot;pliage-des-plats-inox&quot;&gt;Pliage des plats inox.&lt;/h4&gt;
-
-&lt;p&gt;Concernant l’outil de pliage, c’est un montage que j’ai fait il y a quelques années, avec des chutes d’IPN, un cric bouteille de 20 tonnes, des tronçons de vé et de contre-vé.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_pliage_800x600.jpg&quot; alt=&quot;support_cloche_gc_pliage_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;soudure-tig-inox&quot;&gt;Soudure TIG inox&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_soudure_inox_800x600.jpg&quot; alt=&quot;support_cloche_gc_soudure_inox_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Après les soudures, la pièce a été passivée à l’acide.&lt;/p&gt;
-
-&lt;h4 id=&quot;impression-3d-des-pieds&quot;&gt;Impression 3D des pieds&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_impression_3D_pied_800x600.jpg&quot; alt=&quot;support_cloche_gc_impression_3D_pied_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;montage-avec-une-cloche-lp-black-beauty&quot;&gt;Montage avec une cloche LP “Black Beauty”&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_seul_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_seul_800x600.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;montage-en-situation-réelle&quot;&gt;Montage en situation réelle&lt;/h3&gt;
-
-&lt;p&gt;Pour éviter de toucher le pied du charley, j’ai dû décaler la batte. J’ai réalisé cette pièce avec l’imprimante 3D.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</summary></entry><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="fr" /><updated>2021-03-08T01:00:25+01:00</updated><id>/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="/metallerie/2020/08/01/remorque_velo.html">&lt;h3 id=&quot;modélisation-de-la-remorque&quot;&gt;Modélisation de la remorque&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/remorque_velo_freecad.png&quot; alt=&quot;remorque_velo_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -133,21 +92,7 @@ Les pieds à visser sont imprimés en 3D avec du PLA.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessus_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessus_800x600.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D</summary></entry><entry><title type="html">Conversion d’un ballon galva (en cours de fabrication)</title><link href="/m%C3%A9tallerie/2020/07/09/niche_ballon.html" rel="alternate" type="text/html" title="Conversion d'un ballon galva (en cours de fabrication)" /><published>2020-07-09T00:00:00+02:00</published><updated>2020-07-09T00:00:00+02:00</updated><id>/m%C3%A9tallerie/2020/07/09/niche_ballon</id><content type="html" xml:base="/m%C3%A9tallerie/2020/07/09/niche_ballon.html">&lt;h3 id=&quot;dessin-3d-du-projet&quot;&gt;Dessin 3D du projet&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/niche_ballon_FC.png&quot; alt=&quot;niche_ballon_FC.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ballon en tôle galvanisé de 1000L transformé en niche pour mon chien.
-Isolé thermiquement.
-Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
-
-&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/niche_ballon.FCStd&quot;&gt;niche_ballon.FCStd&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ballon-quand-il-était-fonctionnel&quot;&gt;Ballon quand il était fonctionnel&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/ballon_galva_origine.png&quot; alt=&quot;ballon_galva_origine.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Utilisé comme réserve d’eau sous pression et qui a percé au bout de plusieurs années d’utilisation. Photo 2016.&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Dessin 3D du projet</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h3 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pad_edrum_8in_vue_dessous_800x600.jpg&quot; alt=&quot;pad_edrum_8in_vue_dessous_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception en 3D</summary></entry><entry><title type="html">Garde-corps en acier</title><link href="/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="/metallerie/2020/06/22/garde-corps_mordelles.html">&lt;h3 id=&quot;modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication&quot;&gt;Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_freecad.png&quot; alt=&quot;garde-corps_mordelles_freecad.png&quot; /&gt;&lt;/p&gt;
 
@@ -159,7 +104,48 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;fixation-provisoire-du-garde-corps-avant-le-démontage-pour-la-mise-en-peinture&quot;&gt;Fixation provisoire du garde-corps avant le démontage pour la mise en peinture.&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="/metallerie/2020/04/10/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_freecad.png&quot; alt=&quot;verriere_delphine_freecad.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/garde-corps_mordelles_800x600.jpg&quot; alt=&quot;garde-corps_mordelles_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</summary></entry><entry><title type="html">Support de cloche pour batterie</title><link href="/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-05-15T00:00:00+02:00</published><updated>2020-05-15T00:00:00+02:00</updated><id>/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse.html">&lt;p&gt;Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.&lt;/p&gt;
+
+&lt;p&gt;C’est un accessoire principalement utilisé pour la musique afro-cubaine. Il permet le jeu de claves à côté de la pédale charleston sur batterie acoustique.&lt;/p&gt;
+
+&lt;h3 id=&quot;modélisation-du-support-de-cloche&quot;&gt;Modélisation du support de cloche&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_pedale_grosse_caisse_freecad.png&quot; alt=&quot;support_cloche_pedale_grosse_caisse_freecad.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 :  &lt;a href=&quot;/fichiers/support_cloche_pedale_grosse_caisse_V2.FCStd&quot;&gt;support_cloche_pedale_grosse_caisse_V2.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;matière : Plat inox 20x4, tube inox carré 20x1.5, carré inox 14, rond inox diamètre 10, plat inox ep 2mm.
+Les pieds à visser sont imprimés en 3D avec du PLA.&lt;/p&gt;
+
+&lt;p&gt;Outillage: presse maison pour le pliage, vé de 32 (l’abaque Promecam donne un rayon interne de pliage de 5 mm correspondant à l’épaisseur 4 mm pour un vé de 32), poste de soudure tig.&lt;/p&gt;
+
+&lt;h3 id=&quot;etapes-de-la-fabrication&quot;&gt;Etapes de la fabrication&lt;/h3&gt;
+
+&lt;h4 id=&quot;pliage-des-plats-inox&quot;&gt;Pliage des plats inox.&lt;/h4&gt;
+
+&lt;p&gt;Concernant l’outil de pliage, c’est un montage que j’ai fait il y a quelques années, avec des chutes d’IPN, un cric bouteille de 20 tonnes, des tronçons de vé et de contre-vé.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_pliage_800x600.jpg&quot; alt=&quot;support_cloche_gc_pliage_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;soudure-tig-inox&quot;&gt;Soudure TIG inox&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_soudure_inox_800x600.jpg&quot; alt=&quot;support_cloche_gc_soudure_inox_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Après les soudures, la pièce a été passivée à l’acide.&lt;/p&gt;
+
+&lt;h4 id=&quot;impression-3d-des-pieds&quot;&gt;Impression 3D des pieds&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_impression_3D_pied_800x600.jpg&quot; alt=&quot;support_cloche_gc_impression_3D_pied_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;montage-avec-une-cloche-lp-black-beauty&quot;&gt;Montage avec une cloche LP “Black Beauty”&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_seul_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_seul_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;montage-en-situation-réelle&quot;&gt;Montage en situation réelle&lt;/h3&gt;
+
+&lt;p&gt;Pour éviter de toucher le pied du charley, j’ai dû décaler la batte. J’ai réalisé cette pièce avec l’imprimante 3D.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; alt=&quot;support_cloche_gc_en_situation_avec_batterie_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="/metallerie/2020/04/10/verriere_delphine.html">&lt;p&gt;&lt;img src=&quot;/images/verriere_delphine_freecad.png&quot; alt=&quot;verriere_delphine_freecad.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dessin réalisé pendant le “confinement de 2020”, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai fabriqué cette &lt;a href=&quot;/metallerie/2014/06/23/verriere_delphine.html&quot;&gt;verrière en 2014&lt;/a&gt;.&lt;/p&gt;
 
@@ -197,4 +183,35 @@ Déplaçable sur transpalette (environ 200kg).&lt;/p&gt;
 
 &lt;h3 id=&quot;détail-du-support&quot;&gt;détail du support&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/pont_atelier_detail_800x600.jpg&quot; alt=&quot;pont_atelier_detail_800x600.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html"></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="/impression3d/2018/03/20/supports_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>/impression3d/2018/03/20/supports_elements_batterie</id><content type="html" xml:base="/impression3d/2018/03/20/supports_elements_batterie.html">&lt;h3 id=&quot;support-de-convertisseur-midi-roland-tmc-6&quot;&gt;Support de convertisseur MIDI Roland TMC-6&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6.png&quot; alt=&quot;support_roland_tmc6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezzo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/support_roland_TMC6.FCStd&quot;&gt;support_roland_TMC6.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_roland_tmc6_1_800x600.jpg&quot; alt=&quot;support_roland_tmc6_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;transformation-du-support-de-tom-yamaha-en-un-support-de-cloche&quot;&gt;Transformation du support de tom yamaha en un support de cloche&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_support_tom_yamaha.png&quot; alt=&quot;boule_yamaha.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Demi-sphère pour support de tom yamaha.&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  &lt;a href=&quot;/fichiers/boule_yamaha.FCStd&quot;&gt;boule_yamaha.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boule_yamaha_1_800x600.jpg&quot; alt=&quot;boule_yamaha_1_800x600.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;support-de-métronome-tama-rw100-sur-support-de-tom-yamaha&quot;&gt;Support de métronome tama rw100 sur support de tom yamaha&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_tama_rw100_sur_yamaha.png&quot; alt=&quot;support_tama_rw100&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Support en 2 parties pour être monté sur un support de tom yamaha&lt;/p&gt;
+
+&lt;p&gt;Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2021):  &lt;a href=&quot;/fichiers/support_tama_rw100.FCStd&quot;&gt;support_tama_rw100.FCStd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/support_tama_rw_100_800x600.jpeg&quot; alt=&quot;support_tama_rw_100_800x600.jpeg&quot; /&gt;&lt;/p&gt;</content><author><name>Jérôme Launay</name></author><summary type="html">Support de convertisseur MIDI Roland TMC-6</summary></entry></feed>
